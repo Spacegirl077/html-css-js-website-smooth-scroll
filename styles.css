@@ -41,7 +41,8 @@
   align-items: center;
   cursor: pointer;
   text-decoration: none;
-  font-size: 2rem;
+  font-size: 2.5rem;
+  font-weight: bold;
 }
 
 .navbar__menu {
@@ -541,11 +542,12 @@
 
 .services__card h2 {
   text-align: center;
+  font-size: 30px;
 }
 
 .services__card p {
   text-align: center;
-  margin-top: 24px;
+  margin: 20px 10px;
   font-size: 20px;
 }
 
